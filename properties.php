@@ -1,3 +1,4 @@
+
 <!DOCTYPE.php>
 <!--
 Template Name: Stack - Stack - Bootstrap 4 Admin Template
@@ -11,7 +12,7 @@ Renew Support: https://1.envato.market/stack_admin
 License: You must have a valid license purchased only from themeforest(the above link) in order to legally use the theme for your project.
 
 -->
-.php class="loading" lang="en" data-textdirection="ltr">
+
 <!-- BEGIN: Head-->
 
 <!-- Mirrored from pixinvent.com/stack-responsive-bootstrap-4-admin-template.php/ltr/vertical-modern-menu-template/dashboard-crm.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 21 Jan 2022 22:29:57 GMT -->
